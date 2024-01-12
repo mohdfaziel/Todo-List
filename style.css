@@ -94,8 +94,7 @@ ul li span:hover{
 
 }
 .checked{
-    opacity: 0.8;
-    text-decoration: line-through;
+    opacity: 0.5;
 }
 .checked::before{
     background: url(./IMG/checked.svg) no-repeat center center/cover;
