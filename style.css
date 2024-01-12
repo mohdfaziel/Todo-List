@@ -62,12 +62,13 @@ button:hover{
     background-color: rgba(255, 68, 0, 0.851);
 }
 ul{
-    padding-left: 25px;
+    padding-left: 5px;
 }
 ul li{
     list-style: none;
     cursor: pointer;
     padding: 4px 0px;
+    padding-left: 21px;
     display: flex;
     font-size: small;
     flex-direction: row;
@@ -82,7 +83,7 @@ ul li::before{
     height: 17px;
     top: 5px;
     z-index: 1;
-    left: -19px;
+    left: 0px;
 }
 ul li span{
     padding: 0px 8px;
