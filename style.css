@@ -4,6 +4,8 @@
     box-sizing: border-box;
     font-family: 'Baloo 2', sans-serif;
     font-weight: bold;
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
 .container{
     width: 100%;
